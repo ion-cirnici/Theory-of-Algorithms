@@ -13,7 +13,6 @@
 
 <!--  LOGO -->
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -32,6 +31,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This Project is about achieving learning outcomes of the module which is split into three interconnected components based on four main targets:
+
+* Comparison different models of computation which is imperative in programming 
+* Write computer programs using a selection of programming paradigms.
+* Analysing the complexity of an algorithm.
+* Identify difficult computational problems in everyday programming such as Post correspondence problem
 ___
 
 
@@ -113,3 +118,4 @@ ___
 ___
 
 [Ion Cirnici](G00374920@gmit.ie)
+
