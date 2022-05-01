@@ -1,19 +1,28 @@
 <div id="top"></div>
 
-# Theory-of-Algorithms
-
-<!-- PROJECT LOGO -->
+#  Theory-of-Algorithms 
+***
+***
 <br />
 <div align="center">
   <a href="https://github.com/ion-cirnici/Theory-of-Algorithms">
   </a>
 
   <p align="center"></p>
+  
 </div>
 
 <!--  LOGO -->
 
+<a href="https://www.gmit.ie/" >
+<p align="center"><img src="https://i.postimg.cc/cL2D0znV/ATu-Galway.png"
+alt="GMIT Logo" width="500" height="145"/>
+</p></a>
+<br>
+
 <!-- TABLE OF CONTENTS -->
+***
+***
 <details>
   <summary>Table of Contents</summary>
   <ol>
