@@ -29,8 +29,7 @@ alt="GMIT Logo" width="500" height="145"/>
     <li><a href="#about-the-project">About The Project</a></li>
       <li><a href="#built-with">Built With</a></li>
       <li><a href="#installation">Installation</a></li>
-      <li><a href="#getting-started">Getting Started</a></li>    
-      <li><a href="#run">Run</a></li>
+      <li><a href="#getting-started">Getting Started</a></li>
       <li><a href="#license">License</a></li>
       <li><a href="#references">References</a></li>     
       <li><a href="#contact">Contact</a></li>
@@ -56,6 +55,10 @@ ___
 ## Built With
 ___
 
+Jupyter notebooks:
+- Lab Exercises
+- Post Correspondence Problem
+- Countdown Numbers Game
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -80,28 +83,10 @@ ___
    
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- RUN -->
-## Run
-___
-Running the project as follows: 
-1.  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- EXPLORE -->
-## Explore
-___
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- CREDITS -->
-## Credits
-___
-
+   - Create folder into your local machine
+   - Open cmder and type cd followed by the address to the Theory-of-Algorithms.
+   - At this stage type jupyter notebook and will open in jupyter notebook followed by localhost:8888
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -117,7 +102,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- REFERENCES -->
 ## References
 ___
-1. 
+1. https://datagenetics.com/blog/august32014/index.html
+2. https://en.wikipedia.org/wiki/Post_correspondence_problem#:~:text=One%20of%20the%20most%20important,the%20problem%20is%20NP%2Dcomplete
+3. https://www.wisdomjobs.com/e-university/automata-theory-tutorial-352/post-correspondence-problem-25775.html
+4. https://web.microsoftstream.com/video/30ca7c63-b69d-46e3-b776-2749592bec04
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
