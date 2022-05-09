@@ -44,7 +44,7 @@ This Project is about achieving learning outcomes of the module which is split i
 * Comparison different models of computation which is imperative in programming 
 * Write computer programs using a selection of programming paradigms.
 * Analysing the complexity of an algorithm.
-* Identify difficult computational problems in everyday programming such as Post correspondence problem
+* Identify difficult computational problems in everyday programming such as Post correspondence problem.
 ___
 
 
@@ -114,5 +114,6 @@ ___
 ## Contact
 ___
 
-[Ion Cirnici](G00374920@gmit.ie)
+Ion Cirnici <br>
+ G00374920@gmit.ie
 
